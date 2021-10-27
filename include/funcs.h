@@ -3,5 +3,6 @@
 
 void foo(void);
 void goo(void);
+void hoo(int);
 
 #endif
