@@ -3,6 +3,6 @@
 int main(void){
 
 	foo();
-	hoo();
+	hoo(2021);
 	return 0;
 }
